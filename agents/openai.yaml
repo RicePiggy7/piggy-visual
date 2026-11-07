@@ -1,0 +1,4 @@
+interface:
+  display_name: "Piggy Visual"
+  short_description: "Create labeled explainers and transparent illustration assets with 我 and 元仔"
+  default_prompt: "Use $piggy-visual to create a finished explanatory image or a transparent character, object, or decorative illustration in the piggy ink-hatching style."
